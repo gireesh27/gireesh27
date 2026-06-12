@@ -305,80 +305,37 @@ Business Intelligence dashboard built using Power BI and SQL to analyze retail t
 
 ---
 
-# Professional Experience
-
-## 🏛️ Research Software Intern
-
-### National Institute of Technology Warangal
-
-**May 2025 – August 2025**
-
-Worked on climate analytics and research software development under academic supervision, processing decades of meteorological datasets and deriving meaningful insights for disaster preparedness.
-
-### Responsibilities
-
-- Processed and analyzed 18,000+ IMD climate records.
-- Automated statistical workflows using Python.
-- Developed research-oriented data processing pipelines.
-- Conducted temporal and spatial heatwave analysis.
-- Built Excel dashboards for visualization.
-- Created technical documentation for reproducibility.
-- Supported data-driven Heat Action Planning initiatives.
-
-### Technologies
-
-`Python`
-`Pandas`
-`NumPy`
-`Matplotlib`
-`Excel`
-`Research Computing`
-
----
+# 💼 Professional Experience
 
 ## 💻 Next.js Developer Intern
 
-### VidyaInterna Hub
+### VidyaInterna Hub | Nov 2024 – Feb 2025
 
-**November 2024 – February 2025**
+Contributed to the development of modern, responsive web applications by transforming **Figma designs into production-ready Next.js interfaces** and building scalable frontend solutions.
 
-Contributed to frontend engineering efforts by building reusable components and improving application reliability across platforms.
+**Key Contributions**
+- Developed multiple **business portfolio websites** and landing pages using **Next.js, TypeScript, and Tailwind CSS**.
+- Built the complete **VidyaInterna Hub educational platform frontend**, including **About, Enrollment, Payment, and Student Portal** pages.
+- Created **25+ reusable UI components** and responsive layouts to improve development efficiency and maintainability.
+- Integrated **Framer Motion** animations and optimized cross-device compatibility for an enhanced user experience.
+- Participated in **project deployment**, debugging, and frontend performance optimization.
 
-### Responsibilities
+**Tech Stack**
 
-- Built 25+ reusable UI components.
-- Developed using Next.js and TypeScript.
-- Improved maintainability through modular design.
-- Debugged and optimized existing features.
-- Enhanced responsive layouts.
-- Reduced cross-device compatibility issues.
-- Improved user experience across desktop and mobile.
+`Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `MongoDB` • `Framer Motion`
 
-### Technologies
-
-`Next.js`
-
-`React`
-
-`TypeScript`
-
-`Tailwind CSS`
-
-`JavaScript`
-
-`Responsive Design`
-
-# Achievements
+  
+## 🏆 Achievements
 
 <div align="center">
 
-| 🏆 Recognition | 📌 Details |
-|:--------------:|:----------|
-| 🥇 LeetCode Biweekly Contest 143 | Secured **Global Rank 774**, placing among the **Top 10%** participants worldwide. |
-| 🥈 GeeksforGeeks Weekly Contest 179 | Achieved **Rank 71** among thousands of competitive programmers. |
-</div>
+| 🏅 Achievement                                | 📌 Description                                                                                                                                                                                                                        |
+| :-------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🥇 **LeetCode Biweekly Contest 143**          | Secured **Global Rank 774**, finishing among the **Top 10%** of participants worldwide through strong algorithmic problem-solving skills.                                                                                             |
+| 🥈 **GeeksforGeeks Weekly Contest 179**       | Achieved **Rank 71** among thousands of competitive programmers, demonstrating consistent performance in Data Structures and Algorithms.                                                                                              |
+| 🚀 **Velocity 2026 Hackathon – NIT Warangal** | As a member of **Team Model Minds**, secured a **Top 10 finish among 100+ participating teams** at **Velocity 2026**, the flagship **2-day Software & Hardware Hackathon** organized by **Innovation Garage (IG), NIT Warangal**, by developing an **AI-powered personalized learning platform for K–12 students** that delivers adaptive learning paths and customized educational content through Artificial Intelligence and Machine Learning. |
 
----
+</div>
 
 # 🏆 Certifications
 
@@ -418,8 +375,6 @@ Contributed to frontend engineering efforts by building reusable components and 
 </a>
 
 </div>
-```
-
 
 ---
 
