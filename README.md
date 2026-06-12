@@ -4,36 +4,34 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1200&color=8B5CF6&center=true&vCenter=true&width=950&lines=AI+%26+Machine+Learning+Engineer;Software+Engineer;Full+Stack+Developer;Building+Scalable+Products;NIT+Warangal+Graduate;Passionate+About+Emerging+Technologies"/>
 
-<br>
+<br><br>
 
-![](https://img.shields.io/badge/NIT-Warangal-5B21B6?style=for-the-badge)
-![](https://img.shields.io/badge/B.Tech-Engineering-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/AI%20%26%20ML-Engineer-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Software-Engineer-4C1D95?style=for-the-badge)
+[![NIT Warangal](https://img.shields.io/badge/NIT-Warangal-5B21B6?style=for-the-badge)](https://www.nitw.ac.in/)
+![B.Tech](https://img.shields.io/badge/B.Tech-Engineering-6D28D9?style=for-the-badge)
+![AI%20%26%20ML](https://img.shields.io/badge/AI%20%26%20ML-Engineer-7C3AED?style=for-the-badge)
+![Software](https://img.shields.io/badge/Software-Engineer-4C1D95?style=for-the-badge)
 
 <br><br>
 
-![](https://img.shields.io/badge/Location-Andhra%20Pradesh,%20India-312E81?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Andhra%20Pradesh,%20India-312E81?style=for-the-badge)
 
 <a href="https://github.com/gireesh27">
-<img src="https://img.shields.io/badge/GitHub-gireesh27-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-gireesh27-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:kasagireesh@gmail.com">
-<img src="https://img.shields.io/badge/Email-kasagireesh@gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-kasagireesh%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/kasagireesh/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/kasagireesh/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </div>
-
----
 
 # About Me
 
@@ -370,22 +368,6 @@ Contributed to frontend engineering efforts by building reusable components and 
 
 `Responsive Design`
 
----
-
-# Leadership & Community
-
-## Executive Member
-
-### Nature Photography Club — NIT Warangal
-
-**July 2023 – July 2024**
-
-- Organized 10+ nature-centric events.
-- Promoted environmental awareness.
-- Coordinated photography walks.
-- Increased student participation.
-- Managed community engagement activities.
-
 # Achievements
 
 <div align="center">
@@ -415,25 +397,29 @@ Contributed to frontend engineering efforts by building reusable components and 
 
 </div>
 
-# Competitive Programming Profiles
+# 💻 Competitive Programming Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/u/kasagireesh/">
-
-<img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
 <br><br>
 
 <a href="https://www.geeksforgeeks.org/profile/kasagireesh/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
 
-<img src="https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<br><br>
 
+<a href="https://codeforces.com/profile/kasagireesh">
+  <img src="https://img.shields.io/badge/Codeforces-Visit%20Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
 </a>
 
 </div>
+```
+
 
 ---
 
