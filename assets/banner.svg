@@ -1,0 +1,228 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1600"
+     height="500"
+     viewBox="0 0 1600 500">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#0b1033"/>
+      <stop offset="100%" stop-color="#04040d"/>
+    </linearGradient>
+
+    <!-- Neon -->
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c4dff"/>
+      <stop offset="50%" stop-color="#5cf0ff"/>
+      <stop offset="100%" stop-color="#ff5de4"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft glow -->
+    <filter id="smallGlow">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1600" height="500" fill="url(#bg)"/>
+
+  <!-- Blob Left -->
+  <ellipse cx="260" cy="180"
+           rx="180"
+           ry="120"
+           fill="#7b3fff"
+           fill-opacity="0.25"
+           filter="url(#glow)">
+    <animate attributeName="rx"
+             values="180;220;180"
+             dur="8s"
+             repeatCount="indefinite"/>
+    <animate attributeName="ry"
+             values="120;160;120"
+             dur="8s"
+             repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Blob Right -->
+  <ellipse cx="1320" cy="320"
+           rx="200"
+           ry="130"
+           fill="#4d8dff"
+           fill-opacity="0.22"
+           filter="url(#glow)">
+    <animate attributeName="rx"
+             values="200;170;200"
+             dur="10s"
+             repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Neural Network -->
+
+  <g stroke="url(#neon)"
+     stroke-width="1.6"
+     stroke-opacity="0.45">
+
+    <line x1="120" y1="100" x2="360" y2="220"/>
+    <line x1="360" y1="220" x2="620" y2="140"/>
+    <line x1="620" y1="140" x2="840" y2="240"/>
+    <line x1="840" y1="240" x2="1100" y2="120"/>
+    <line x1="1100" y1="120" x2="1440" y2="230"/>
+
+    <line x1="220" y1="350" x2="560" y2="280"/>
+    <line x1="560" y1="280" x2="900" y2="360"/>
+    <line x1="900" y1="360" x2="1300" y2="300"/>
+
+  </g>
+
+  <!-- Nodes -->
+
+  <g fill="#8ff7ff">
+
+    <circle cx="360" cy="220" r="5">
+      <animate attributeName="r"
+               values="4;8;4"
+               dur="2s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="620" cy="140" r="5">
+      <animate attributeName="r"
+               values="4;9;4"
+               dur="3s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="840" cy="240" r="5">
+      <animate attributeName="r"
+               values="4;8;4"
+               dur="2.5s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1100" cy="120" r="5">
+      <animate attributeName="r"
+               values="4;9;4"
+               dur="2.2s"
+               repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+  <!-- Animated beam -->
+
+  <path d="M260 260 C520 140 920 360 1300 180"
+        fill="none"
+        stroke="url(#neon)"
+        stroke-width="4"
+        stroke-linecap="round"
+        stroke-dasharray="12 18"
+        filter="url(#smallGlow)">
+    <animate attributeName="stroke-dashoffset"
+             values="0;300"
+             dur="8s"
+             repeatCount="indefinite"/>
+  </path>
+
+  <!-- Glass panel -->
+
+  <rect x="240"
+        y="90"
+        width="1120"
+        height="320"
+        rx="36"
+        fill="white"
+        fill-opacity="0.05"
+        stroke="white"
+        stroke-opacity="0.12"/>
+
+  <!-- Floating particles -->
+
+  <g fill="white">
+
+    <circle cx="180" cy="430" r="2">
+      <animate attributeName="cy"
+               values="430;80;430"
+               dur="9s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="520" cy="450" r="2">
+      <animate attributeName="cy"
+               values="450;100;450"
+               dur="11s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="900" cy="420" r="2">
+      <animate attributeName="cy"
+               values="420;70;420"
+               dur="10s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1450" cy="440" r="2">
+      <animate attributeName="cy"
+               values="440;90;440"
+               dur="12s"
+               repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+  <!-- Main title -->
+
+  <g text-anchor="middle">
+
+    <text x="800"
+          y="270"
+          font-family="Segoe UI, Arial, sans-serif"
+          font-size="82"
+          font-weight="800"
+          fill="url(#neon)"
+          filter="url(#glow)"
+          letter-spacing="3">
+
+      Gireesh Kasa
+
+      <animateTransform
+        attributeName="transform"
+        type="scale"
+        values="1 1;1.015 1.015;1 1"
+        additive="sum"
+        dur="5s"
+        repeatCount="indefinite"/>
+
+    </text>
+
+  </g>
+
+  <!-- Subtitle -->
+
+  <text x="800"
+        y="325"
+        text-anchor="middle"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="24"
+        fill="#d8d8ff"
+        opacity="0.85"
+        letter-spacing="5">
+
+    AI • MACHINE LEARNING • SOFTWARE ENGINEER
+
+  </text>
+
+</svg>
