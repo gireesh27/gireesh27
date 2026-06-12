@@ -1,7 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:312E81&section=header&text=Gireesh%20Kasa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
+<p align="center">
+  <img src="assets/banner.svg" alt="Gireesh Kasa Banner" width="100%" />
+</p>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1200&color=8B5CF6&center=true&vCenter=true&width=950&lines=AI+%26+Machine+Learning+Engineer;Software+Engineer;Full+Stack+Developer;Building+Scalable+Products;NIT+Warangal+Graduate;Passionate+About+Emerging+Technologies"/>
 
 <br><br>
